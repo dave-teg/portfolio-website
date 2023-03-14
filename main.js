@@ -1,1 +1,0 @@
-console.log("this is the life of dawit neri")
